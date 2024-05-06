@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+bin
+.idea
+.vscode
+
+flyway.conf
+.env
+.envrc
+.data
